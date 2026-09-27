@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "barAngel AI",
+    "slug": "barangel-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": { "resizeMode": "contain", "backgroundColor": "#020617" },
+    "android": { "package": "com.barangel.ai" },
+    "ios": { "bundleIdentifier": "com.barangel.ai" }
+  }
+}
